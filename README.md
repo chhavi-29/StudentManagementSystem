@@ -18,7 +18,7 @@ A Spring Boot web application for managing student records.
 - Maven
 - HTML
 - CSS
-- Thymeleaf (if used)
+- Thymeleaf
 
 ## Project Structure
 
